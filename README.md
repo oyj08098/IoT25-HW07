@@ -9,6 +9,10 @@ client led code
 ![image](https://github.com/user-attachments/assets/1e39e6c4-536e-47e5-8dfd-178dcfb682a3)
 ![image](https://github.com/user-attachments/assets/967dac6b-a37a-4070-8afb-3c033b59c4be)
 
+client WiFi code
+
+![image](https://github.com/user-attachments/assets/814f34fc-2adc-48cc-8c8b-7c08d48ca7c0)
+![image](https://github.com/user-attachments/assets/787440ca-fdbe-4f45-bcbd-0f731906aab1)
 
 result
 
